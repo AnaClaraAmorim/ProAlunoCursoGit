@@ -7,10 +7,6 @@ void function(){
 }
 int main(){
     function();
-<<<<<<< HEAD
-    printf("Hello World 123567898");
-=======
     printf("Hello World1234");
->>>>>>> teste
     printf("Hello World2");
 }
